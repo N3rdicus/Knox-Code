@@ -1,0 +1,6 @@
+You can either list the addons bugs you would like me to make or fix or if you know how, you  can go into the code and
+make your change sudgestions in the following format.
+
+LN(line#)(>-add <-Remove =-Replace) Requested-##/##/####
+(Code)
+	(Discription. And yes the indent is supost to be there.)
